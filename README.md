@@ -1,16 +1,4 @@
-# ball_magic
+# Magic 8 Ball 
 
-2nd challenge of the complete 2021 fullter developer course.
+2nd challenge of the complete 2021 Flutter developer course. In this app I learned <b> how to make the app interactive, the difference between stateful and stateless widgets and how to use state in Flutter projects </b> by developing a simple magic 8 ball app capable of helping one to make decisions by randomly choosing an answer in a set of images. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
